@@ -1,11 +1,11 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=7800ff"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="250" src="https://avatars.githubusercontent.com/u/107636309?v=4"  />
+  <img height="350" src="https://avatars.githubusercontent.com/u/107636309?v=4"  />
 </div>
 
 ###
