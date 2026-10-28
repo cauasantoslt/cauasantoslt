@@ -54,4 +54,44 @@
   <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Google_Cloud-1A1A1A?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/ESP32_/_IoT-1A1A1A?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
-  <img src="
+  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+</div>
+
+---
+
+### 💻 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| 🤖 **[AlphaCentauri](https://github.com/cauasantoslt/AlphaCentauri)** | Assistente de voz avançado para desktop construído em Python, utilizando IA generativa (Google Gemini) para aprender novas habilidades em tempo real. | `Python` · `Gemini API` · `Automação` |
+| 📊 **[TelecomX2](https://github.com/cauasantoslt/TelecomX2)** | Aplicação de predição de churn e protótipo interativo para extração, visualização e análise estruturada de dados de clientes. | `Python` · `Random Forest` · `Streamlit` |
+| 🌱 **[FarmTech Solutions](https://github.com/cauasantoslt/Fase2-Cap1-FarmTech-Solutions)** | Sistema de irrigação inteligente e telemetria agrícola para otimização de cultivo com sensores, visão computacional e análise em nuvem. | `Python` · `ESP32` · `Machine Learning` |
+| 🎬 **[MyFlix](https://github.com/cauasantoslt/MyFlix)** | Aplicativo web dinâmico que oferece recomendações personalizadas de séries da Netflix em diversos gêneros ([Acessar Site](https://myflix-f6c1d.web.app/)). | `JavaScript` · `HTML/CSS` · `Firebase` |
+
+---
+
+### 📝 Artigos Publicados
+
+Confira alguns dos meus textos e reflexões no meu [Portfólio](https://cauasantosl.web.app/):
+
+- 📈 **[Os gráficos também falam](https://cauasantosl.web.app/artigo1.html)**
+- 🧠 **[4 Verdades surpreendentes sobre IA e Big Data](https://cauasantosl.web.app/artigo2.html)**
+- 🗺️ **[Desvendando os segredos dos mapas](https://cauasantosl.web.app/artigo3.html)**
+- 💡 **[O que ninguém te conta sobre IA](https://cauasantosl.web.app/artigo4.html)**
+
+---
+
+<br>
+
+<div align="center">
+  <i>"Seja você quem for, seja qual for a posição social que você tenha na vida, a mais alta ou a mais baixa, tenha sempre como meta muita força, muita determinação e sempre faça tudo com muito amor e com muita fé em Deus, que um dia você chega lá. De alguma maneira você chega lá."</i>
+  <br><br>
+  <b>— Ayrton Senna ⭐</b>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=7800ff" alt="Footer" />
+</div>
