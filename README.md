@@ -3,25 +3,25 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/f66d1cb3-1a38-4666-8511-2cf1f8ab1524" alt="Foto de perfil de Cauã Santos" />
+  <img height="200" src="https://images.weserv.nl/?url=https://github.com/cauasantoslt.png&h=300&w=300&fit=cover&mask=circle" alt="Foto de perfil de Cauã Santos" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://cauasantosl.web.app/" target="_blank">
+  <a href="https://cauasantosl.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-7800ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="https://www.linkedin.com/in/cau%C3%A3-santos-bbab78292/" target="_blank">
+  <a href="https://www.linkedin.com/in/cauasantoslt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/channel/UCcRbfi14-h2yC9cA2v3agCA" target="_blank">
+  <a href="https://youtube.com/cauasantoslt" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:cauasantos935@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/5581996420581" target="_blank">
+  <a href="https://wa.me/5581989826261" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
@@ -68,19 +68,19 @@
 | :--- | :--- | :--- |
 | 🤖 **[AlphaCentauri](https://github.com/cauasantoslt/AlphaCentauri)** | Assistente de voz avançado para desktop construído em Python, utilizando IA generativa (Google Gemini) para aprender novas habilidades em tempo real. | `Python` · `Gemini API` · `Automação` |
 | 📊 **[TelecomX2](https://github.com/cauasantoslt/TelecomX2)** | Aplicação de predição de churn e protótipo interativo para extração, visualização e análise estruturada de dados de clientes. | `Python` · `Random Forest` · `Streamlit` |
-| 🌱 **[FarmTech Solutions](https://github.com/cauasantoslt/Fase2-Cap1-FarmTech-Solutions)** | Sistema de irrigação inteligente e telemetria agrícola para otimização de cultivo com sensores, visão computacional e análise em nuvem. | `Python` · `ESP32` · `Machine Learning` |
-| 🎬 **[MyFlix](https://github.com/cauasantoslt/MyFlix)** | Aplicativo web dinâmico que oferece recomendações personalizadas de séries da Netflix em diversos gêneros ([Acessar Site](https://myflix-f6c1d.web.app/)). | `JavaScript` · `HTML/CSS` · `Firebase` |
+| 🌱 **[FarmTech Solutions](https://github.com/cauasantoslt)** | Sistema de irrigação inteligente e telemetria agrícola para otimização de cultivo com sensores, visão computacional e análise em nuvem. | `Python` · `ESP32` · `Machine Learning` |
+| 🎬 **[MyFlix](https://github.com/cauasantoslt)** | Aplicativo web dinâmico que oferece recomendações personalizadas de séries da Netflix em diversos gêneros. | `JavaScript` · `HTML/CSS` · `Firebase` |
 
 ---
 
 ### 📝 Artigos Publicados
 
-Confira alguns dos meus textos e reflexões no meu [Portfólio](https://cauasantosl.web.app/):
+Confira alguns dos meus textos e reflexões no meu **[Portfólio](https://cauasantosl.web.app)**:
 
-- 📈 **[Os gráficos também falam](https://cauasantosl.web.app/artigo1.html)**
-- 🧠 **[4 Verdades surpreendentes sobre IA e Big Data](https://cauasantosl.web.app/artigo2.html)**
-- 🗺️ **[Desvendando os segredos dos mapas](https://cauasantosl.web.app/artigo3.html)**
-- 💡 **[O que ninguém te conta sobre IA](https://cauasantosl.web.app/artigo4.html)**
+- 📈 **Os gráficos também falam**
+- 🧠 **4 Verdades surpreendentes sobre IA e Big Data**
+- 🗺️ **Desvendando os segredos dos mapas**
+- 💡 **O que ninguém te conta sobre IA**
 
 ---
 
